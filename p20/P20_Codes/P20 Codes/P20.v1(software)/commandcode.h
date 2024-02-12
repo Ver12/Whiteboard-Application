@@ -1,0 +1,6 @@
+#define startDrawCommand 's'
+#define drawLineCommand 'd'
+#define penWidthCommand 'w'
+#define penColorCommand 'p'
+#define clearCommand 'c'
+#define unclearCommand 'u'
